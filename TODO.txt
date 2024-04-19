@@ -1,0 +1,5 @@
+//TODO
+
+1) Nella cartella resources --> view --> layouts --> inserire il file app.blade.php quello messo in classroom
+
+2) 
